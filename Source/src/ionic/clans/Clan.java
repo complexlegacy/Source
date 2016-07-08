@@ -18,7 +18,7 @@ public class Clan {
 	public Player[] members = new Player[100];//players in the clan chat
 	public String[] kicked = new String[100];//names of kicked players
 	public int[] kickTicks = new int[100];//amount in minutes left for kicked players to join clan
-	
+	//mills
 	public Clan(int id, String owner, String prefix, String[] ranks, int[] ranksN, int enter, int talk, int kick) {
 		this.clanId = id;
 		this.owner = owner;
