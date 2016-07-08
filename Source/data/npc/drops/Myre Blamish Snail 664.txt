@@ -1,0 +1,7 @@
+[NPCDROP]
+[NPC-ID = 1232]
+//MISSING: blamish myre shell (round)	1	ALWAYS
+//MISSING: blamish myre shell (pointed)	1	ALWAYS
+DROP = 3363	1,1,false	ALWAYS
+//MISSING: key token	1	RARE
+[LOAD]

@@ -1,0 +1,27 @@
+[NPCDROP]
+[NPC-ID = 8037]
+DROP = 526	1,1,false	ALWAYS
+DROP = 556	1,1,false	COMMON
+DROP = 554	1,1,false	COMMON
+DROP = 555	1,1,false	COMMON
+DROP = 557	1,1,false	COMMON
+DROP = 559	1,1,false	COMMON
+DROP = 558	1,1,false	COMMON
+DROP = 562	1,1,false	RARE
+DROP = 561	1,1,false	RARE
+DROP = 563	1,1,false	RARE
+DROP = 565	1,1,false	RARE
+DROP = 1379	1,1,false	COMMON
+//MISSING: wizard's book	1	COMMON
+//MISSING: wizard hat (blue)	1	RARE
+//MISSING: wizard robe top	1	UNCOMMON
+//MISSING: wizard wand	1	COMMON
+//MISSING: wizard gloves	1	COMMON
+DROP = 995	1,1,false	COMMON
+DROP = 1448	1,1,false	COMMON
+DROP = 1444	1,1,false	UNCOMMON
+//MISSING: spirit sapphire	1	RARE
+//MISSING: spirit emerald	1	RARE
+//MISSING: spirit ruby	1	RARE
+//MISSING: key token	1	RARE
+[LOAD]

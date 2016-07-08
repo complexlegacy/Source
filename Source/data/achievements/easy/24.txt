@@ -1,0 +1,6 @@
+[ACHIEVEMENT]
+Name = Join a clan chat
+Description = Join any other persons clan chat. Do this by clicking on the clan chat tab and then click the join button. Type in the name of any players clan you would like to join.
+Requirement = 1
+Reward = 1
+[END]

@@ -1,0 +1,14 @@
+[CLAN]
+Clan Id = 1
+Clan Owner = Fusion
+Clan Prefix = Fusion
+Who Can Enter = 0
+Who Can Talk = 0
+Who Can Kick = 6
+
+
+[CLAN RANKS]
+
+
+
+[ENDOFCLAN]

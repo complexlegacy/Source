@@ -1,0 +1,141 @@
+//Dialogues for 'The Stolen Cannon' quest
+
+//0
+[LIST]	3
+PLAYERCHAT	HAPPY  -  Hello there!
+NPCCHAT	SAD  -  209  -  Hello...
+OPTION	What's wrong?@@@Nevermind
+[ENDLIST]
+
+//1
+[LIST]	11
+PLAYERCHAT	CONFUSED  -  What's wrong? you seem sad.
+NPCCHAT	SAD  -  209  -  My life's work... It's gone. Everything I've ever@@@dreamed of, they just took it from me.
+PLAYERCHAT	CONFUSED  -  Who took what from you?
+NPCCHAT	SAD  -  209  -  A dwarf has to make a living, not all of us are miners.@@@I like to invent new technologies.
+NPCCHAT	WORRIED  -  209  -  A few weeks ago, I had just finished my new invention@@@I called it the 'Dwarf Multicannon'.@@@This cannon is amazing...
+NPCCHAT	NORMAL  -  209  -  It rotates and fires cannon balls automatically@@@at monsters, hitting a good amount of damage...
+NPCCHAT	SAD_WORRIED  -  209  -  Anyways, as I was saying, I had just finished adding@@@the last parts to it, and then I went to sleep.@@@When morning came, the cannon was gone.
+PLAYERCHAT	UNSURE  -  Well, what happened to the cannon?
+NPCCHAT	VERY_ANGRY  -  209  -  I started going crazy, if this technology got@@@into the wrong hands, things could go bad.@@@That morning, I asked around and my friend Grundt said@@@that he knew where it went, but he's very selfish.
+NPCCHAT	VERY_ANGRY  -  209  -  He will only tell somebody what happened if@@@they give him 100,000 gold coins. Unfortunately I don't@@@own that many coins, so I can't pay the price.
+OPTION	I will get the cannon back@@@I don't care about your stupid cannon
+[ENDLIST]
+
+//2
+[LIST]	2
+PLAYERCHAT	CRAZY  -  I don't care about your stupid cannon@@@stop whining and get it back yourself
+NPCCHAT	GRUMPY  -  209  -  Whatever...
+[ENDLIST]
+
+
+//3
+[LIST]	4
+PLAYERCHAT	HAPPY  -  I could get the cannon back for you.
+NPCCHAT	HAPPY  -  209  -  Really? you would do that for me?
+PLAYERCHAT	HAPPY  -  Yeah, sure I can. I'm up for a quest!
+NPCCHAT	HAPPY  -  209  -  Do you have any questions?
+[ENDLIST]
+
+
+//4
+[LIST]	1
+OPTION	Where can I find Grundt?@@@What do you need me to do?@@@What's in it for me?@@@Nothing
+[ENDLIST]
+
+
+//5
+[LIST]	2
+PLAYERCHAT	TALK_WONDER  -  Where can I find Grundt?
+NPCCHAT	THINK  -  209  -  You can find him inside Falador castle@@@I'm not sure why, but he's always there.
+[ENDLIST]
+
+
+//6
+[LIST]	2
+PLAYERCHAT	TALK_WONDER  -  What do you need me to do?
+NPCCHAT	THINK  -  209  -  I need you to pay Grundt, and do whatever it takes@@@to get the cannon back.
+[ENDLIST]
+
+
+//7
+[LIST]	2
+PLAYERCHAT	TALK_WONDER  -  What's in it for me?
+NPCCHAT	THINK  -  209  -  If you manage to get the cannon back, I will@@@let you keep it, and give you the knowledge@@@to use the cannon.
+[ENDLIST]
+
+
+//8
+[LIST]	3
+PLAYERCHAT	HAPPY  -  Hi Grundt!
+NPCCHAT	TALKING  -  5502  -  What do you want tall boy?
+OPTION	I'm helping Nulodion@@@To call you short@@@Nothing
+[ENDLIST]
+
+
+//9
+[LIST]	5
+PLAYERCHAT	HAPPY  -  I'm helping Nulodion to get his cannon back.@@@He said that you have some information that could@@@help me find it.
+NPCCHAT	TALKING  -  5502  -  Yes, I believe that I can help you, however@@@times are tough, and I will only tell you@@@what I know, if you pay me 100,000 coins
+PLAYERCHAT	NORMAL  -  Nulodion mentioned that you wanted some money.
+NPCCHAT	TALKING  -  5502  -  Yes, I'm currently very poor and this might be@@@my ticket to living a good life.
+NPCCHAT	HAPPY  -  5502  -  Come back to me when you've got the coins.
+[ENDLIST]
+
+
+//10
+[LIST]	2
+PLAYERCHAT	LAUGHING_GOOFY  -  I came here to tell you how short you are.
+NPCCHAT	LISTENING  -  5502  -  ...
+[ENDLIST]
+
+
+//11
+[LIST]	2
+PLAYERCHAT	HAPPY  -  Nothing!
+NPCCHAT	ANGRY  -  5502  -  Then get out of my face!
+[ENDLIST]
+
+
+//12
+[LIST]	1
+OPTION	I have the coins@@@Nothing
+[ENDLIST]
+
+
+//13
+[LIST]	1
+PLAYERCHAT	HAPPY  -  I have the coins here for you.
+[ENDLIST]
+
+//14
+[LIST]	1
+NPCCHAT	HAPPY  -  5502  -  Thanks!
+[ENDLIST]
+
+//15
+[LIST]	1
+NPCCHAT	ANGRY  -  5502  -  No you don't have them. Come back when you do.
+[ENDLIST]
+
+//16
+[LIST]	2
+PLAYERCHAT	NORMAL  -  So... can you tell me who took the cannon now?
+NPCCHAT	VERY_ANGRY  -  5502  -  I'M BUSY! GO AWAY!
+[ENDLIST]
+
+//17
+[LIST]	6
+PLAYERCHAT	ANGRY  -  Hi Nulodion
+NPCCHAT	NORMAL  -  209  -  Why are you angry?
+PLAYERCHAT	TALKING  -  So... I found Grundt at the Falador castle@@@I paid him the 100,000 coins...
+NPCCHAT	WORRIED  -  209  -  So who took the cannon then?
+PLAYERCHAT	TALKING  -  After I gave him the money, he wouldn't tell me@@@who took it. Do you know how I can@@@get him to tell me?
+NPCCHAT	NORMAL  -  209  -  Ahhh, Grundt has always been like that.@@@Don't worry, just pickpocket him and take his diary@@@blackmail him into giving you the information@@@in exchange for his diary in return.
+[ENDLIST]
+
+//18
+[LIST]	2
+PLAYERCHAT	THINKING  -  What should I be doing?
+NPCCHAT	NORMAL  -  209  -  Pickpocket Grundt and take his diary. Show it to him@@@and then get him to tell you who took the cannon@@@in exchange that you will return his diary.
+[ENDLIST]

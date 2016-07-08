@@ -1,0 +1,21 @@
+[NPCDROP]
+[NPC-ID = 6064]
+DROP = 1704	1,1,false	RARE
+//MISSING: mystic robe bottom (blue)	1	RARE
+DROP = 5547	1,1,false	SUPER_RARE
+//MISSING: dragonstone amulet	1	RARE
+DROP = 11212	1,1,false	COMMON
+DROP = 9341	1,1,false	COMMON
+DROP = 1305	1,1,false	COMMON
+DROP = 1215	1,1,false	UNCOMMON
+DROP = 11230	1,1,false	UNCOMMON
+DROP = 11232	1,1,false	COMMON
+DROP = 11237	1,1,false	COMMON
+DROP = 9193	1,1,false	COMMON
+//MISSING: baby dragon bones	1	COMMON
+DROP = 5316	1,1,false	UNCOMMON
+DROP = 536	1,1,false	UNCOMMON
+DROP = 1615	3,3,false	UNCOMMON
+DROP = 5300	1,1,false	RARE
+DROP = 7218	1,1,false	RARE
+[LOAD]

@@ -1,0 +1,6 @@
+[ACHIEVEMENT]
+Name = Cook 25 shrimp
+Description = Obtain 25 raw shrimps (possibly from training fishing) and cook them either on a fire, or on a cooking range. Once you cook 25 of them, you will complete this achievement and receive your reward points.
+Requirement = 25
+Reward = 1
+[END]

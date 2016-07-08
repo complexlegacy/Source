@@ -1,0 +1,6 @@
+[ACHIEVEMENT]
+Name = Gain 10,000 Fletching Exp
+Description = Train the Fletching skill, and gain 10,000 experience to complete this achievement.
+Requirement = 10000
+Reward = 1
+[END]

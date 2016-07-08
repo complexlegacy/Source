@@ -1,0 +1,29 @@
+[NPCDROP]
+[NPC-ID = 12352]
+//MISSING: spider silk	1	ALWAYS
+DROP = 556	1,1,false	UNCOMMON
+DROP = 557	1,1,false	UNCOMMON
+DROP = 554	1,1,false	UNCOMMON
+DROP = 559	1,1,false	UNCOMMON
+DROP = 1139	1,1,false	COMMON
+DROP = 877	1,1,false	UNCOMMON
+DROP = 882	1,1,false	UNCOMMON
+//MISSING: shieldbow	1	RARE
+DROP = 1189	1,1,false	SUPER_RARE
+DROP = 1381	1,1,false	RARE
+//MISSING: chargebow	1	RARE
+DROP = 995	1,1,false	COMMON
+DROP = 1965	1,1,false	COMMON
+DROP = 2307	1,1,false	COMMON
+DROP = 1440	1,1,false	UNCOMMON
+DROP = 1444	1,1,false	SUPER_RARE
+DROP = 1438	1,1,false	RARE
+DROP = 1955	1,1,false	RARE
+DROP = 1009	1,1,false	RARE
+DROP = 229	1,1,false	RARE
+//MISSING: spirit sapphire	1	RARE
+//MISSING: spirit emerald	1	RARE
+//MISSING: spirit ruby	1	RARE
+DROP = 18778	1,1,false	SUPER_RARE
+//MISSING: key token	1	RARE
+[LOAD]

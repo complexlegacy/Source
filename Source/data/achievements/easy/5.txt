@@ -1,0 +1,6 @@
+[ACHIEVEMENT]
+Name = Fletch 300 arrow shafts
+Description = While training fletching, cut logs into a total of 300 arrow shafts. Don't worry, each normal log makes 15 arrow shafts, so you only need a total of 20 logs.
+Requirement = 300
+Reward = 1
+[END]

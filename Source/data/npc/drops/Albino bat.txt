@@ -1,0 +1,7 @@
+[NPCDROP]
+[NPC-ID = 4345]
+DROP = 530	1,1,false	ALWAYS
+//MISSING: batwing	1	UNCOMMON
+DROP = 7827	1,1,false	UNCOMMON
+//MISSING: key token	1	RARE
+[LOAD]

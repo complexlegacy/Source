@@ -1,0 +1,6 @@
+[ACHIEVEMENT]
+Name = Complete 5 easy slayer tasks
+Description = Complete any 5 easy slayer tasks. You can start this by talking to Vannaka at Edgeville.
+Requirement = 5
+Reward = 1
+[END]

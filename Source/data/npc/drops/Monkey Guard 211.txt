@@ -1,0 +1,7 @@
+[NPCDROP]
+[NPC-ID = 14212]
+//MISSING: monkey bones (gorilla)	1	ALWAYS
+//MISSING: monkey bones (bearded gorilla)	1	ALWAYS
+DROP = 15128	1,1,false	COMMON
+//MISSING: key token	1	RARE
+[LOAD]

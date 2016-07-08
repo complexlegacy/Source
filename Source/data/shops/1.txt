@@ -1,0 +1,25 @@
+[SHOP]
+[NAME = Melee Equipment]
+[CURRENCY = Coins]
+
+BUYS_BACK_SHOP_ITEMS = false
+BUYS_EVERYTHING = true
+
+Item = 0 1117 50 -1
+Item = 1 1075 50 -1
+Item = 2 1155 50 -1
+Item = 3 1321 50 -1
+Item = 4 1189 50 -1
+Item = 5 1115 50 -1
+Item = 6 1067 50 -1
+Item = 7 1153 50 -1
+Item = 8 1323 50 -1
+Item = 9 1191 50 -1
+Item = 10 1119 50 -1
+Item = 11 1069 50 -1
+Item = 12 1157 50 -1
+Item = 13 1325 50 -1
+Item = 14 1193 50 -1
+
+
+[ENDOFSHOP]

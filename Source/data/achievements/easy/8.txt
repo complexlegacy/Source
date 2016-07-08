@@ -1,0 +1,6 @@
+[ACHIEVEMENT]
+Name = Kill 30 cows
+Description = The title explains everything, cows might be a nice species, but it is your duty to kill 30 of them. You can find cows in the fenced area in Lumbridge, near the goblins.
+Requirement = 30
+Reward = 1
+[END]

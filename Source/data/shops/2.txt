@@ -1,0 +1,14 @@
+[SHOP]
+[NAME = Magic Equipment]
+[CURRENCY = Coins]
+
+BUYS_BACK_SHOP_ITEMS = true
+BUYS_EVERYTHING = false
+
+Item = 0 1379 20 -1
+Item = 1 1381 20 -1
+Item = 2 1383 20 -1
+Item = 3 1385 20 -1
+Item = 4 1387 20 -1
+
+[ENDOFSHOP]

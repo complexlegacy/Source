@@ -1,0 +1,25 @@
+[NPCDROP]
+[NPC-ID = 6063]
+DROP = 6328	1,1,false	COMMON
+DROP = 3385	1,1,false	COMMON
+DROP = 3391	1,1,false	COMMON
+//MISSING: mystic boots (blue)	1	COMMON
+//MISSING: mystic gloves (blue)	1	COMMON
+DROP = 1113	1,1,false	UNCOMMON
+//MISSING: rune claw	1	COMMON
+DROP = 1333	1,1,false	UNCOMMON
+DROP = 1347	1,1,false	UNCOMMON
+DROP = 1215	1,1,false	UNCOMMON
+DROP = 6313	1,1,false	COMMON
+DROP = 892	1,1,false	COMMON
+DROP = 811	1,1,false	COMMON
+DROP = 868	1,1,false	COMMON
+//MISSING: rune throwing axe	1	COMMON
+DROP = 9342	1,1,false	UNCOMMON
+DROP = 9194	1,1,false	RARE
+DROP = 1747	1,1,false	COMMON
+DROP = 139	1,1,false	COMMON
+//MISSING: weapon poison+ (3)	1	UNCOMMON
+DROP = 6155	1,1,false	UNCOMMON
+DROP = 2363	1,1,false	RARE
+[LOAD]

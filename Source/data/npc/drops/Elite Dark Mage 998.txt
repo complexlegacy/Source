@@ -1,0 +1,26 @@
+[NPCDROP]
+[NPC-ID = 9459]
+DROP = 532	1,1,false	ALWAYS
+//MISSING: black robe top	1	UNCOMMON
+DROP = 1391	1,1,false	RARE
+DROP = 1405	1,1,false	RARE
+DROP = 149	1,1,false	UNCOMMON
+DROP = 143	1,1,false	RARE
+DROP = 554	1,1,false	COMMON
+DROP = 4696	1,1,false	COMMON
+DROP = 556	1,1,false	COMMON
+DROP = 562	1,1,false	UNCOMMON
+DROP = 561	1,1,false	RARE
+DROP = 565	1,1,false	RARE
+DROP = 560	1,1,false	RARE
+DROP = 1442	1,1,false	RARE
+DROP = 566	1,1,false	SUPER_RARE
+DROP = 995	81,81,false	COMMON
+DROP = 2323	1,1,false	RARE
+DROP = 575	1,1,false	RARE
+DROP = 2801	1,1,false	SUPER_RARE
+//MISSING: spirit sapphire	1	RARE
+//MISSING: spirit emerald	1	RARE
+//MISSING: spirit ruby	1	RARE
+//MISSING: key token	1	RARE
+[LOAD]

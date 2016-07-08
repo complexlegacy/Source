@@ -1,0 +1,6 @@
+[ACHIEVEMENT]
+Name = Change your appearance
+Description = Change your appearance twice with the make-over mage found in Edgeville.
+Requirement = 2
+Reward = 1
+[END]

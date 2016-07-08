@@ -1,0 +1,6 @@
+[ACHIEVEMENT]
+Name = Catch a Young Impling
+Description = Train the Hunter skill. Get a net and catch a young impling to complete this achievement.
+Requirement = 1
+Reward = 1
+[END]

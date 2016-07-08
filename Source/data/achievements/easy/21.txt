@@ -1,0 +1,6 @@
+[ACHIEVEMENT]
+Name = Mine 30 Iron ore
+Description = Successfully mine 30 Iron ore from almost any mining site found in teleports.
+Requirement = 30
+Reward = 1
+[END]

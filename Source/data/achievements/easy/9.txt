@@ -1,0 +1,6 @@
+[ACHIEVEMENT]
+Name = Kill 30 chickens
+Description = Kill 30 chickens. A good place to find chickens is in lumbridge, cross the bridge and walk past the goblins and the cows and there will be a chicken farm.
+Requirement = 30
+Reward = 1
+[END]

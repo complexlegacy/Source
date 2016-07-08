@@ -1,0 +1,6 @@
+[ACHIEVEMENT]
+Name = Bury 20 Bones
+Description = Prayer is a very helpful skill, to train prayer you must bury bones. Complete this achievement while training the prayer skill, and burying 20 of any bones.
+Requirement = 20
+Reward = 1
+[END]

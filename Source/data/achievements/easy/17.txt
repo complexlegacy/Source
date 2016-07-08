@@ -1,0 +1,6 @@
+[ACHIEVEMENT]
+Name = Switch magic books
+Description = Go to an altar and change your magic spells book to a different one.
+Requirement = 1
+Reward = 1
+[END]

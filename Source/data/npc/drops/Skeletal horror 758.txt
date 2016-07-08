@@ -1,0 +1,9 @@
+[NPCDROP]
+[NPC-ID = 9180]
+DROP = 19043	1,1,false	ALWAYS
+//MISSING: crystal triskelion fragment 1	1	UNCOMMON
+//MISSING: crystal triskelion fragment 2	1	UNCOMMON
+//MISSING: crystal triskelion fragment 3	1	UNCOMMON
+//MISSING: skeleton champion's scroll	1	SUPER_RARE
+//MISSING: key token	1	RARE
+[LOAD]

@@ -1,0 +1,6 @@
+[NPCDROP]
+[NPC-ID = 1465]
+//MISSING: monkey bones (small zombie)	1	ALWAYS
+//MISSING: monkey bones (big zombie)	1	ALWAYS
+//MISSING: key token	1	RARE
+[LOAD]

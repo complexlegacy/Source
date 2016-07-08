@@ -1,0 +1,7 @@
+[NPCDROP]
+[NPC-ID = 180]
+DROP = 526	1,1,false	ALWAYS
+//MISSING: cape (black)	1	ALWAYS
+DROP = 9140	1,1,false	RARE
+//MISSING: key token	1	RARE
+[LOAD]

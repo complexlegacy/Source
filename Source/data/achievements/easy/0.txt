@@ -1,0 +1,6 @@
+[ACHIEVEMENT]
+Name = Log in to Runite
+Description = This achievement is pretty self explanatory, because you have already completed this achievement and all you really need to do is create an account and log in.
+Requirement = 1
+Reward = 1
+[END]

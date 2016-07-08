@@ -1,0 +1,28 @@
+[NPCDROP]
+[NPC-ID = 4659]
+DROP = 526	1,1,false	ALWAYS
+DROP = 557	1,1,false	COMMON
+DROP = 556	1,1,false	COMMON
+DROP = 555	1,1,false	COMMON
+DROP = 554	1,1,false	COMMON
+DROP = 558	1,1,false	COMMON
+DROP = 559	1,1,false	COMMON
+DROP = 562	1,1,false	COMMON
+DROP = 561	1,1,false	UNCOMMON
+DROP = 563	1,1,false	RARE
+DROP = 564	1,1,false	UNCOMMON
+DROP = 565	1,1,false	RARE
+DROP = 995	1,1,false	COMMON
+DROP = 1379	1,1,false	COMMON
+DROP = 1381	1,1,false	COMMON
+//MISSING: wizard hat (black)	1	COMMON
+//MISSING: black robe top	1	COMMON
+//MISSING: chargebow	1	UNCOMMON
+DROP = 1444	1,1,false	SUPER_RARE
+DROP = 1442	1,1,false	SUPER_RARE
+DROP = 1440	1,1,false	SUPER_RARE
+DROP = 1448	1,1,false	RARE
+DROP = 1383	1,1,false	SUPER_RARE
+//MISSING: black robe skirt	1	SUPER_RARE
+//MISSING: key token	1	RARE
+[LOAD]

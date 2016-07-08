@@ -1,0 +1,21 @@
+[NPCDROP]
+[NPC-ID = 3334]
+//MISSING: searing ashes	1	ALWAYS
+DROP = 20429	1,1,false	ALWAYS
+//MISSING: wyrm spike	1	RARE
+//MISSING: wyrm heart	1	RARE
+//MISSING: wyrm scalp	1	RARE
+DROP = 449	1,1,false	COMMON
+DROP = 1444	1,1,false	COMMON
+DROP = 1513	1,1,false	COMMON
+DROP = 1747	1,1,false	COMMON
+//MISSING: searing ashes	1	COMMON
+DROP = 9245	1,1,false	COMMON
+DROP = 451	1,1,false	UNCOMMON
+DROP = 1391	15,15,true	UNCOMMON
+DROP = 5315	1,1,false	UNCOMMON
+DROP = 18778	1,1,false	RARE
+//MISSING: crystal triskelion fragment 1	1	SUPER_RARE
+//MISSING: crystal triskelion fragment 2	1	SUPER_RARE
+//MISSING: crystal triskelion fragment 3	1	SUPER_RARE
+[LOAD]

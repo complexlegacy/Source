@@ -1,0 +1,35 @@
+[NPCDROP]
+[NPC-ID = 5874]
+DROP = 526	1,1,false	ALWAYS
+DROP = 555	1,1,false	COMMON
+DROP = 559	1,1,false	UNCOMMON
+DROP = 557	1,1,false	UNCOMMON
+DROP = 558	1,1,false	UNCOMMON
+DROP = 1438	1,1,false	UNCOMMON
+DROP = 877	1,1,false	COMMON
+DROP = 1965	1,1,false	COMMON
+DROP = 5016	1,1,false	RARE
+DROP = 5018	1,1,false	RARE
+//MISSING: chargebow	1	COMMON
+DROP = 1381	1,1,false	UNCOMMON
+DROP = 1009	1,1,false	UNCOMMON
+DROP = 1237	1,1,false	COMMON
+DROP = 1173	1,1,false	UNCOMMON
+DROP = 7905	1,1,false	COMMON
+DROP = 1949	1,1,false	UNCOMMON
+DROP = 2307	1,1,false	COMMON
+DROP = 1917	1,1,false	RARE
+DROP = 10999	1,1,false	COMMON
+DROP = 288	1,1,false	COMMON
+DROP = 1101	1,1,false	COMMON
+//MISSING: oil lantern (empty)	1	UNCOMMON
+DROP = 29	1,1,false	UNCOMMON
+//MISSING: spirit sapphire	1	RARE
+//MISSING: spirit emerald	1	RARE
+//MISSING: spirit ruby	1	RARE
+DROP = 2677	1,1,false	SUPER_RARE
+//MISSING: goblin champion's scroll	1	SUPER_RARE
+DROP = 995	5,5,false	COMMON
+DROP = 1987	3,3,false	UNCOMMON
+//MISSING: key token	1	RARE
+[LOAD]

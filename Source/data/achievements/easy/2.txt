@@ -1,0 +1,6 @@
+[ACHIEVEMENT]
+Name = Chop 20 oak logs
+Description = Train woodcutting on Oak trees, you must chop a total of 20 logs from Oak trees to complete this achievement. Oak trees require a level of 15 woodcutting to attempt cutting down. Each oak tree can give multiple logs.
+Requirement = 20
+Reward = 1
+[END]

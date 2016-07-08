@@ -1,0 +1,25 @@
+[NPCDROP]
+[NPC-ID = 1646]
+DROP = 526	1,1,false	ALWAYS
+DROP = 1379	1,1,false	COMMON
+DROP = 1387	1,1,false	UNCOMMON
+DROP = 3053	1,1,false	RARE
+DROP = 1401	1,1,false	RARE
+//MISSING: mystic hat (dark)	1	RARE
+//MISSING: mystic boots (dark)	1	RARE
+DROP = 557	1,1,false	COMMON
+DROP = 554	1,1,false	COMMON
+DROP = 560	1,1,false	COMMON
+DROP = 565	1,1,false	UNCOMMON
+DROP = 556	1,1,false	UNCOMMON
+DROP = 558	1,1,false	UNCOMMON
+DROP = 555	1,1,false	UNCOMMON
+DROP = 559	1,1,false	UNCOMMON
+DROP = 995	1,1,false	COMMON
+//MISSING: spirit sapphire	1	RARE
+//MISSING: spirit emerald	1	RARE
+//MISSING: spirit ruby	1	RARE
+DROP = 2722	1,1,false	SUPER_RARE
+DROP = 18778	1,1,false	SUPER_RARE
+//MISSING: key token	1	RARE
+[LOAD]

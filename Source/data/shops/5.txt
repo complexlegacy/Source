@@ -1,0 +1,29 @@
+[SHOP]
+[NAME = Thieving Stuff]
+[CURRENCY = Coins]
+BUYS_BACK_SHOP_ITEMS = true
+BUYS_EVERYTHING = false
+Item = 0 1965 1000 -1
+Item = 1 2309 1000 -1
+Item = 2 1891 1000 -1
+Item = 3 1895 1000 -1
+Item = 4 712 1000 -1
+Item = 5 950 1000 -1
+Item = 6 1935 1000 -1
+Item = 7 5318 1000 -1
+Item = 8 6814 1000 -1
+Item = 9 958 1000 -1
+Item = 10 359 1000 -1
+Item = 11 442 1000 -1
+Item = 12 2355 1000 -1
+Item = 13 2007 1000 -1
+Item = 14 946 1000 -1
+Item = 15 1550 1000 -1
+Item = 16 1625 1000 -1
+Item = 17 1617 1000 -1
+Item = 18 1619 1000 -1
+Item = 19 1621 1000 -1
+Item = 20 1623 1000 -1
+Item = 21 1627 1000 -1
+Item = 22 1629 1000 -1
+[ENDOFSHOP]

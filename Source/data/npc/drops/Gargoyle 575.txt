@@ -1,0 +1,27 @@
+[NPCDROP]
+[NPC-ID = 6389]
+DROP = 1303	1,1,false	UNCOMMON
+//MISSING: off-hand rune longsword	1	UNCOMMON
+DROP = 892	1,1,false	UNCOMMON
+DROP = 4153	1,1,false	RARE
+DROP = 4129	1,1,false	COMMON
+DROP = 1161	1,1,false	COMMON
+DROP = 1163	1,1,false	COMMON
+DROP = 1079	1,1,false	UNCOMMON
+//MISSING: mystic robe top (dark)	1	RARE
+DROP = 995	11,11,false	COMMON
+//MISSING: anagogic ort	1	COMMON
+DROP = 2970	1,1,false	UNCOMMON
+DROP = 2353	1,1,false	COMMON
+DROP = 2359	1,1,false	COMMON
+DROP = 2361	1,1,false	UNCOMMON
+DROP = 1621	1,1,false	COMMON
+DROP = 1619	1,1,false	COMMON
+//MISSING: spirit sapphire	1	RARE
+//MISSING: spirit emerald	1	RARE
+//MISSING: spirit ruby	1	RARE
+//MISSING: ferocious ring	1	RARE
+DROP = 2722	1,1,false	RARE
+DROP = 18778	1,1,false	SUPER_RARE
+//MISSING: key token	1	RARE
+[LOAD]

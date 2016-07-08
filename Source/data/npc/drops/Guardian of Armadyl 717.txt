@@ -1,0 +1,5 @@
+[NPCDROP]
+[NPC-ID = 8344]
+DROP = 526	1,1,false	ALWAYS
+DROP = 87	1,1,false	COMMON
+[LOAD]

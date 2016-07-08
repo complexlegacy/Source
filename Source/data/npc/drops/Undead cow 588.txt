@@ -1,0 +1,8 @@
+[NPCDROP]
+[NPC-ID = 5211]
+DROP = 526	1,1,false	ALWAYS
+//MISSING: raw undead beef	1	ALWAYS
+DROP = 1739	1,1,false	ALWAYS
+DROP = 7890	1,1,false	UNCOMMON
+//MISSING: key token	1	RARE
+[LOAD]

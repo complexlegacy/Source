@@ -1,0 +1,32 @@
+[NPCDROP]
+[NPC-ID = 169]
+DROP = 995	300,300,false	COMMON
+DROP = 557	1,1,false	COMMON
+DROP = 444	1,1,false	COMMON
+//MISSING: sunchoke seed	1	COMMON
+//MISSING: barberry seed	1	COMMON
+//MISSING: prickly pear seed	1	COMMON
+//MISSING: butterfly flower seed	1	COMMON
+//MISSING: fly trap seed	1	COMMON
+//MISSING: snape grass seed	1	COMMON
+DROP = 2150	1,1,false	COMMON
+DROP = 2162	1,1,false	COMMON
+//MISSING: reed seed	1	UNCOMMON
+//MISSING: potato cactus seed	1	UNCOMMON
+DROP = 569	1,1,false	UNCOMMON
+//MISSING: grapevine seed	1	RARE
+//MISSING: wishing well bush seed	1	RARE
+DROP = 18757	1,1,false	SUPER_RARE
+DROP = 2102	1,1,false	COMMON
+DROP = 2120	1,1,false	COMMON
+DROP = 2128	1,1,false	COMMON
+DROP = 2171	1,1,false	UNCOMMON
+DROP = 2169	1,1,false	UNCOMMON
+DROP = 2164	1,1,false	UNCOMMON
+DROP = 2026	1,1,false	UNCOMMON
+DROP = 2165	1,1,false	UNCOMMON
+DROP = 2167	1,1,false	RARE
+DROP = 2025	1,1,false	RARE
+DROP = 2023	1,1,false	EXTREMELY_UNCOMMON
+//MISSING: key token	1	RARE
+[LOAD]

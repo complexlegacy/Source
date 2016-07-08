@@ -1,0 +1,10 @@
+[NPCDROP]
+[NPC-ID = 475]
+DROP = 526	1,1,false	ALWAYS
+DROP = 884	1,1,false	RARE
+//MISSING: spirit sapphire	1	RARE
+//MISSING: spirit emerald	1	RARE
+//MISSING: spirit ruby	1	RARE
+DROP = 18778	1,1,false	SUPER_RARE
+//MISSING: key token	1	RARE
+[LOAD]

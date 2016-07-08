@@ -1,0 +1,8 @@
+[NPCDROP]
+[NPC-ID = 97]
+DROP = 2859	1,1,false	ALWAYS
+//MISSING: raw wolf meat	1	ALWAYS
+//MISSING: spirit emerald	1	SUPER_RARE
+DROP = 18778	1,1,false	SUPER_RARE
+//MISSING: key token	1	RARE
+[LOAD]

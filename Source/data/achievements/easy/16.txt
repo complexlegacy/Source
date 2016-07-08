@@ -1,0 +1,6 @@
+[ACHIEVEMENT]
+Name = Open your bank
+Description = Using your bank is a great way to store your items. Completing this acheivement is very simple, just go to any bank booth and open your bank.
+Requirement = 1
+Reward = 1
+[END]

@@ -1,0 +1,6 @@
+[ACHIEVEMENT]
+Name = Burn 30 logs
+Description = Complete this achievement by simply training your firemaking skill. Just light a total of 30 logs on fire to complete this achievement.
+Requirement = 30
+Reward = 1
+[END]

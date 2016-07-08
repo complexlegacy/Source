@@ -1,0 +1,7 @@
+[NPCDROP]
+[NPC-ID = 5620]
+DROP = 526	1,1,false	ALWAYS
+//MISSING: monk's robe (top)	1	RARE
+//MISSING: monk's robe (bottom)	1	RARE
+//MISSING: key token	1	RARE
+[LOAD]

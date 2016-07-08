@@ -1,0 +1,4 @@
+[NPCDROP]
+[NPC-ID = 5352]
+//MISSING: key token	1	RARE
+[LOAD]

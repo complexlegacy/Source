@@ -1,0 +1,6 @@
+[ACHIEVEMENT]
+Name = Fletch 20 shortbows
+Description = Obtain unstrung shortbows, and bow strings, and then use them together to create shortbows. Create a total of 20 to complete this achievement.
+Requirement = 20
+Reward = 1
+[END]

@@ -1,0 +1,16 @@
+[NPCDROP]
+[NPC-ID = 8312]
+DROP = 1365	1,1,false	COMMON
+DROP = 1313	1,1,false	UNCOMMON
+DROP = 1432	1,1,false	RARE
+DROP = 995	2,2,false	COMMON
+DROP = 556	1,1,false	COMMON
+DROP = 2359	1,1,false	UNCOMMON
+DROP = 2357	1,1,false	UNCOMMON
+//MISSING: spirit sapphire	1	RARE
+//MISSING: spirit emerald	1	RARE
+//MISSING: spirit ruby	1	RARE
+DROP = 6703	1,1,false	RARE
+DROP = 143	1,1,false	SUPER_RARE
+//MISSING: key token	1	RARE
+[LOAD]

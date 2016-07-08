@@ -1,0 +1,6 @@
+[NPCDROP]
+[NPC-ID = 1589]
+//MISSING: baby dragon bones	1	ALWAYS
+DROP = 18641	1,1,false	UNCOMMON
+//MISSING: key token	1	RARE
+[LOAD]

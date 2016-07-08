@@ -1,0 +1,19 @@
+package ionic.player.packets;
+
+import ionic.clans.ClanHandler;
+import ionic.player.Client;
+import utility.Misc;
+/**
+ * Chat
+ **/
+public class ClanChat implements PacketType {
+
+	@Override
+	public void processPacket(Client c, int packetType, int packetSize) {
+		String textSent = Misc.longToPlayerName2(c.getInStream().readQWord());
+		textSent = textSent.replaceAll("_", " ");
+		
+		ClanHandler.joinClan(c, textSent);
+		
+	}	
+}

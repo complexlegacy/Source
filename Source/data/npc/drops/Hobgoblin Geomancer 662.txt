@@ -1,0 +1,5 @@
+[NPCDROP]
+[NPC-ID = 10072]
+DROP = 15733	1,1,false	COMMON
+//MISSING: mysterious chronicle	1	COMMON
+[LOAD]

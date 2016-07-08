@@ -1,0 +1,7 @@
+[NPCDROP]
+[NPC-ID = 11263]
+DROP = 2859	1,1,false	ALWAYS
+//MISSING: raw wolf meat	1	ALWAYS
+DROP = 7830	1,1,false	COMMON
+//MISSING: key token	1	RARE
+[LOAD]

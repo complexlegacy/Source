@@ -1,0 +1,7 @@
+[NPCDROP]
+[NPC-ID = 4284]
+DROP = 1163	1,1,false	ALWAYS
+DROP = 1127	1,1,false	ALWAYS
+DROP = 1079	1,1,false	ALWAYS
+//MISSING: key token	1	RARE
+[LOAD]

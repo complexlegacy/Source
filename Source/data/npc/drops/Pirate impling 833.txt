@@ -1,0 +1,45 @@
+[NPCDROP]
+[NPC-ID = 7867]
+DROP = 2357	1,1,false	COMMON
+//MISSING: stripy pirate shirt (red)	1	COMMON
+//MISSING: stripy pirate shirt (blue)	1	COMMON
+//MISSING: stripy pirate shirt (purple)	1	COMMON
+//MISSING: stripy pirate shirt (brown)	1	COMMON
+//MISSING: stripy pirate shirt (grey)	1	COMMON
+//MISSING: stripy pirate shirt (beige)	1	COMMON
+//MISSING: stripy pirate shirt (orange)	1	COMMON
+//MISSING: pirate leggings (red)	1	COMMON
+//MISSING: pirate leggings (blue)	1	COMMON
+//MISSING: pirate leggings (purple)	1	COMMON
+//MISSING: pirate leggings (brown)	1	COMMON
+//MISSING: pirate leggings (grey)	1	COMMON
+//MISSING: pirate leggings (beige)	1	COMMON
+//MISSING: pirate leggings (orange)	1	COMMON
+//MISSING: pirate bandana (red)	1	COMMON
+//MISSING: pirate bandana (blue)	1	COMMON
+//MISSING: pirate bandana (white)	1	COMMON
+//MISSING: pirate bandana (brown)	1	COMMON
+//MISSING: bandana (purple)	1	COMMON
+//MISSING: bandana (grey)	1	COMMON
+//MISSING: bandana (orange)	1	COMMON
+//MISSING: bandana and eyepatch (red)	1	COMMON
+//MISSING: bandana and eyepatch (white)	1	COMMON
+//MISSING: bandana and eyepatch (blue)	1	COMMON
+//MISSING: bandana and eyepatch (brown)	1	COMMON
+DROP = 7114	1,1,false	UNCOMMON
+DROP = 13355	1,1,false	UNCOMMON
+DROP = 8951	1,1,false	SUPER_RARE
+DROP = 1353	1,1,false	COMMON
+DROP = 1925	1,1,false	COMMON
+DROP = 1929	1,1,false	COMMON
+DROP = 1923	1,1,false	COMMON
+DROP = 1511	1,1,false	COMMON
+DROP = 8977	1,1,false	COMMON
+DROP = 8972	1,1,false	UNCOMMON
+DROP = 8974	1,1,false	UNCOMMON
+//MISSING: red flowers (trouble brewing)	1	UNCOMMON
+//MISSING: blue flowers (trouble brewing)	1	UNCOMMON
+DROP = 8981	1,1,false	UNCOMMON
+DROP = 8976	1,1,false	UNCOMMON
+DROP = 8951	1,1,false	RARE
+[LOAD]

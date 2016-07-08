@@ -1,0 +1,6 @@
+[ACHIEVEMENT]
+Name = Rest under 50 run energy
+Description = Rest when your run energy is under 50. Do this by right clicking the run orb and selecting rest.
+Requirement = 1
+Reward = 1
+[END]

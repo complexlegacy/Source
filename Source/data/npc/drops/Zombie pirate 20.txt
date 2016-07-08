@@ -1,0 +1,35 @@
+[NPCDROP]
+[NPC-ID = 5643]
+DROP = 526	1,1,false	ALWAYS
+DROP = 199	1,1,false	COMMON
+DROP = 201	1,1,false	COMMON
+DROP = 203	1,1,false	COMMON
+DROP = 205	1,1,false	UNCOMMON
+DROP = 207	1,1,false	RARE
+DROP = 209	1,1,false	RARE
+DROP = 211	1,1,false	RARE
+DROP = 213	1,1,false	RARE
+DROP = 215	1,1,false	RARE
+DROP = 2485	1,1,false	SUPER_RARE
+DROP = 217	1,1,false	SUPER_RARE
+DROP = 1329	1,1,false	SUPER_RARE
+DROP = 1209	1,1,false	UNCOMMON
+DROP = 9141	1,1,false	COMMON
+//MISSING: bandana and eyepatch (red)	1	UNCOMMON
+//MISSING: bandana and eyepatch (blue)	1	UNCOMMON
+DROP = 556	1,1,false	COMMON
+DROP = 555	1,1,false	UNCOMMON
+DROP = 559	1,1,false	UNCOMMON
+DROP = 562	1,1,false	UNCOMMON
+DROP = 564	1,1,false	UNCOMMON
+DROP = 563	1,1,false	RARE
+DROP = 995	38,38,false	COMMON
+DROP = 6716	1,1,false	UNCOMMON
+DROP = 313	1,1,false	COMMON
+DROP = 7157	1,1,false	RARE
+DROP = 440	1,1,false	UNCOMMON
+DROP = 6721	1,1,false	UNCOMMON
+DROP = 7863	1,1,false	COMMON
+//MISSING: zombie champion's scroll	1	SUPER_RARE
+//MISSING: key token	1	RARE
+[LOAD]

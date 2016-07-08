@@ -1,0 +1,6 @@
+[ACHIEVEMENT]
+Name = Kill 25 goblins
+Description = Fight goblins and win the battle. After you have killed 25 of them, you will complete this achievement. A good place to find goblins is in Lumbridge, across the bridge.
+Requirement = 25
+Reward = 1
+[END]

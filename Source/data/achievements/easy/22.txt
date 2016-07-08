@@ -1,0 +1,6 @@
+[ACHIEVEMENT]
+Name = Open the settings interface
+Description = Open the settings interface in the settings tab next to the clan chat tab.
+Requirement = 1
+Reward = 1
+[END]

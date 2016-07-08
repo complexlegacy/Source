@@ -1,0 +1,24 @@
+[NPCDROP]
+[NPC-ID = 6248]
+DROP = 526	1,1,false	ALWAYS
+DROP = 808	1,1,false	COMMON
+DROP = 11730	1,1,false	SUPER_RARE
+//MISSING: armadyl crossbow	1	SUPER_RARE
+//MISSING: off-hand armadyl crossbow	1	SUPER_RARE
+//MISSING: saradomin's hiss	1	SUPER_RARE
+//MISSING: saradomin's murmur	1	SUPER_RARE
+//MISSING: saradomin's whisper	1	SUPER_RARE
+DROP = 11710	1,1,false	UNCOMMON
+DROP = 11712	1,1,false	UNCOMMON
+DROP = 11714	1,1,false	UNCOMMON
+DROP = 563	1,1,false	COMMON
+DROP = 886	1,1,false	COMMON
+DROP = 207	1,1,false	COMMON
+DROP = 995	1300,1300,false	COMMON
+DROP = 231	1,1,false	COMMON
+DROP = 237	1,1,false	UNCOMMON
+DROP = 7946	3,3,false	UNCOMMON
+DROP = 2722	1,1,false	UNCOMMON
+DROP = 19043	1,1,false	RARE
+//MISSING: key token	1	RARE
+[LOAD]

@@ -1,0 +1,6 @@
+[ACHIEVEMENT]
+Name = Mine 50 Tin ore
+Description = Successfully mine 50 tin ore from almost any mining site found in teleports.
+Requirement = 50
+Reward = 1
+[END]

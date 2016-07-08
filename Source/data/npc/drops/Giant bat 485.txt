@@ -1,0 +1,11 @@
+[NPCDROP]
+[NPC-ID = 10911]
+DROP = 530	1,1,false	ALWAYS
+//MISSING: batwing	1	UNCOMMON
+DROP = 7827	1,1,false	COMMON
+//MISSING: spirit sapphire	1	RARE
+//MISSING: spirit emerald	1	RARE
+//MISSING: spirit ruby	1	RARE
+DROP = 18778	1,1,false	RARE
+//MISSING: key token	1	RARE
+[LOAD]

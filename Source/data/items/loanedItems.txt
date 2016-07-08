@@ -1,0 +1,278 @@
+Lendable Item Data:
+Dark bow  =  13405  =  11235
+Ancient staff  =  13406  =  4675
+Archer helm  =  13407  =  3749
+Berserker helm  =  13408  =  3751
+Warrior helm  =  13409  =  3753
+Farseer helm  =  13410  =  3755
+Rock-shell helm  =  13411  =  6128
+Rock-shell plate  =  13412  =  6129
+Rock-shell legs  =  13413  =  6130
+Spined helm  =  13414  =  6131
+Spined body  =  13415  =  6133
+Spined chaps  =  13416  =  6135
+Skeletal helm  =  13417  =  6137
+Skeletal top  =  13418  =  6139
+Skeletal bottoms  =  13419  =  6141
+Spined boots  =  13420  =  6143
+Rock-shell boots  =  13421  =  6145
+Skeletal boots  =  13422  =  6147
+Spined gloves  =  13423  =  6149
+Rock-shell gloves  =  13424  =  6151
+Skeletal gloves  =  13425  =  6153
+Seers' ring  =  13426  =  6731
+Archers' ring  =  13427  =  6733
+Warrior ring  =  13428  =  6735
+Berserker ring  =  13429  =  6737
+Dragon 2h sword  =  13430  =  7158
+Amulet of fury  =  13442  =  6585
+Obsidian cape  =  13443  =  6568
+Abyssal whip  =  13444  =  4151
+Granite maul  =  13445  =  4153
+Dragon full helm  =  13449  =  11335
+Armadyl godsword  =  13450  =  11694
+Bandos godsword  =  13451  =  11696
+Saradomin godsword  =  13452  =  11698
+Zamorak godsword  =  13453  =  11700
+Zamorakian spear  =  13454  =  11716
+Armadyl helmet  =  13455  =  11718
+Armadyl chestplate  =  13456  =  11720
+Armadyl chainskirt  =  13457  =  11722
+Bandos chestplate  =  13458  =  11724
+Bandos tassets  =  13459  =  11726
+Bandos boots  =  13460  =  11728
+Saradomin sword  =  13461  =  11730
+Dragon boots  =  13462  =  11732
+Dragon dagger  =  13465  =  1215
+Dragon dagger (p)  =  13466  =  1231
+Dragon dagger (p+)  =  13467  =  5680
+Dragon dagger (p++)  =  13468  =  5698
+Rune hatchet  =  13469  =  1359
+Dragon hatchet  =  13470  =  6739
+Rune battleaxe  =  13471  =  1373
+Dragon battleaxe  =  13472  =  1377
+Rune warhammer  =  13473  =  1347
+Rune longsword  =  13474  =  1303
+Dragon longsword  =  13475  =  1305
+Rune scimitar  =  13476  =  1333
+Dragon scimitar  =  13477  =  4587
+Dragon halberd  =  13478  =  3204
+Dragon mace  =  13479  =  1434
+Rune pickaxe  =  13480  =  1275
+Dragon chainbody  =  13481  =  3140
+Rune platebody  =  13482  =  1127
+Green d'hide body  =  13483  =  1135
+Blue d'hide body  =  13484  =  2499
+Red d'hide body  =  13485  =  2501
+Black d'hide body  =  13486  =  2503
+Rune platelegs  =  13487  =  1079
+Dragon platelegs  =  13488  =  4087
+Rune plateskirt  =  13489  =  1093
+Dragon plateskirt  =  13490  =  4585
+Green d'hide chaps  =  13491  =  1099
+Blue d'hide chaps  =  13492  =  2493
+Red d'hide chaps  =  13493  =  2495
+Black d'hide chaps  =  13494  =  2497
+Dragon med helm  =  13495  =  1149
+Rune full helm  =  13496  =  1163
+Green d'hide vambraces  =  13497  =  1065
+Blue d'hide vambraces  =  13498  =  2487
+Red d'hide vambraces  =  13499  =  2489
+Black d'hide vambraces  =  13500  =  2491
+Splitbark helm  =  13501  =  3385
+Splitbark body  =  13502  =  3387
+Splitbark legs  =  13503  =  3389
+Splitbark gauntlets  =  13504  =  3391
+Splitbark boots  =  13505  =  3393
+Dragon sq shield  =  13506  =  1187
+Rune kiteshield  =  13507  =  1201
+Mystic hat  =  13508  =  4089
+Mystic robe top  =  13509  =  4091
+Mystic robe bottom  =  13510  =  4093
+Mystic gloves  =  13511  =  4095
+Mystic boots  =  13512  =  4097
+Mystic hat  =  13513  =  4099
+Mystic robe top  =  13514  =  4101
+Mystic robe bottom  =  13515  =  4103
+Mystic gloves  =  13516  =  4105
+Mystic boots  =  13517  =  4107
+Mystic hat  =  13518  =  4109
+Mystic robe top  =  13519  =  4111
+Mystic robe bottom  =  13520  =  4113
+Mystic gloves  =  13521  =  4115
+Mystic boots  =  13522  =  4117
+Maple longbow  =  13523  =  851
+Maple shortbow  =  13524  =  853
+Yew longbow  =  13525  =  855
+Yew shortbow  =  13526  =  857
+Magic longbow  =  13527  =  859
+Magic shortbow  =  13528  =  861
+Seercull  =  13529  =  6724
+Rune crossbow  =  13530  =  9185
+Red partyhat  =  13531  =  1038
+Yellow partyhat  =  13532  =  1040
+Blue partyhat  =  13533  =  1042
+Green partyhat  =  13534  =  1044
+Purple partyhat  =  13535  =  1046
+White partyhat  =  13536  =  1048
+Santa hat  =  13537  =  1050
+Green h'ween mask  =  13538  =  1053
+Blue h'ween mask  =  13539  =  1055
+Red h'ween mask  =  13540  =  1057
+Willow composite bow  =  13541  =  10280
+Yew composite bow  =  13542  =  10282
+Magic composite bow  =  13543  =  10284
+Third-age range top  =  13544  =  10330
+Third-age range legs  =  13545  =  10332
+Third-age range coif  =  13546  =  10334
+Third-age vambraces  =  13547  =  10336
+Third-age robe top  =  13548  =  10338
+Third-age robe  =  13549  =  10340
+Third-age mage hat  =  13550  =  10342
+Third-age amulet  =  13551  =  10344
+Third-age platelegs  =  13552  =  10346
+Third-age platebody  =  13553  =  10348
+Third-age full helmet  =  13554  =  10350
+Third-age kiteshield  =  13555  =  10352
+Ranger boots  =  13556  =  2577
+Wizard boots  =  13557  =  2579
+Robin hood hat  =  13558  =  2581
+Cavalier and mask  =  13763  =  11280
+Rune claws  =  13764  =  3101
+Rune dagger  =  13765  =  1213
+Rune dagger (p)  =  13766  =  1229
+Rune dagger (p+)  =  13767  =  5678
+Rune dagger (p++)  =  13768  =  5696
+Rune spear  =  13769  =  1247
+Dragon spear  =  13770  =  1249
+Rune spear (p)  =  13771  =  1261
+Dragon spear (p)  =  13772  =  1263
+Rune spear (p+)  =  13773  =  5714
+Dragon spear (p+)  =  13774  =  5716
+Rune spear (p++)  =  13775  =  5728
+Dragon spear (p++)  =  13776  =  5730
+Rune sword  =  13777  =  1289
+Rune 2h sword  =  13778  =  1319
+Rune halberd  =  13779  =  3202
+Rune mace  =  13780  =  1432
+Rune chainbody  =  13781  =  1113
+Rune boots  =  13782  =  4131
+Rune med helm  =  13783  =  1147
+Granite helm  =  13784  =  10589
+Granite body  =  13785  =  10564
+Granite legs  =  13786  =  6809
+Rune sq shield  =  13787  =  1185
+Granite shield  =  13788  =  3122
+A powdered wig  =  13789  =  10392
+Flared trousers  =  13790  =  10394
+Pantaloons  =  13791  =  10396
+Sleeping cap  =  13792  =  10398
+Rune cane  =  13793  =  13099
+Top hat  =  13794  =  13101
+Sheep mask  =  13795  =  13107
+Penguin mask  =  13796  =  13109
+Bat mask  =  13797  =  13111
+Cat mask  =  13798  =  13113
+Wolf mask  =  13799  =  13115
+Rune platebody (g)  =  13800  =  2615
+Rune platelegs (g)  =  13801  =  2617
+Rune plateskirt (g)  =  13802  =  3476
+Rune full helm (g)  =  13803  =  2619
+Rune kiteshield (g)  =  13804  =  2621
+Rune platebody (t)  =  13805  =  2623
+Rune platelegs (t)  =  13806  =  2625
+Rune plateskirt (t)  =  13807  =  3477
+Rune full helm (t)  =  13808  =  2627
+Rune kiteshield (t)  =  13809  =  2629
+Highwayman mask  =  13810  =  2631
+Blue beret  =  13811  =  2633
+Black beret  =  13812  =  2635
+White beret  =  13813  =  2637
+Tan cavalier  =  13814  =  2639
+Dark cavalier  =  13815  =  2641
+Black cavalier  =  13816  =  2643
+Red headband  =  13817  =  2645
+Black headband  =  13818  =  2647
+Brown headband  =  13819  =  2649
+Zamorak platebody  =  13820  =  2653
+Zamorak platelegs  =  13821  =  2655
+Zamorak plateskirt  =  13822  =  3478
+Zamorak full helm  =  13823  =  2657
+Zamorak kiteshield  =  13824  =  2659
+Saradomin platebody  =  13825  =  2661
+Saradomin platelegs  =  13826  =  2663
+Saradomin plateskirt  =  13827  =  3479
+Saradomin full helm  =  13828  =  2665
+Saradomin kiteshield  =  13829  =  2667
+Guthix platebody  =  13830  =  2669
+Guthix platelegs  =  13831  =  2671
+Guthix plateskirt  =  13832  =  3480
+Guthix full helm  =  13833  =  2673
+Guthix kiteshield  =  13834  =  2675
+Gilded platebody  =  13835  =  3481
+Gilded platelegs  =  13836  =  3483
+Gilded plateskirt  =  13837  =  3485
+Gilded full helm  =  13838  =  3486
+Gilded kiteshield  =  13839  =  3488
+Dragon platebody  =  14481  =  14479
+Dragon claws  =  14486  =  14484
+Elite black platelegs  =  14592  =  14490
+Elite black platebody  =  14593  =  14492
+Elite black full helm  =  14594  =  14494
+Granite mace  =  14681  =  14679
+Dragon pickaxe  =  15261  =  15259
+Staff of light  =  15502  =  15486
+Saradomin bow  =  19145  =  19143
+Guthix bow  =  19148  =  19146
+Zamorak bow  =  19151  =  19149
+Rune platebody (h1)  =  19181  =  19179
+Rune platelegs (h1)  =  19184  =  19182
+Rune plateskirt (h1)  =  19187  =  19185
+Rune platebody (h2)  =  19202  =  19200
+Rune platelegs (h2)  =  19205  =  19203
+Rune plateskirt (h2)  =  19208  =  19206
+Rune platebody (h3)  =  19223  =  19221
+Rune platelegs (h3)  =  19226  =  19224
+Rune plateskirt (h3)  =  19229  =  19227
+Rune platebody (h4)  =  19244  =  19242
+Rune platelegs (h4)  =  19247  =  19245
+Rune plateskirt (h4)  =  19250  =  19248
+Rune platebody (h5)  =  19265  =  19263
+Rune platelegs (h5)  =  19268  =  19266
+Rune plateskirt (h5)  =  19271  =  19269
+Fox mask  =  19274  =  19272
+White unicorn mask  =  19277  =  19275
+Black unicorn mask  =  19280  =  19278
+Green dragon mask  =  19283  =  19281
+Blue dragon mask  =  19286  =  19284
+Red dragon mask  =  19289  =  19287
+Black dragon mask  =  19292  =  19290
+Frost dragon mask  =  19295  =  19293
+Bronze dragon mask  =  19298  =  19296
+Iron dragon mask  =  19301  =  19299
+Steel dragon mask  =  19304  =  19302
+Mithril dragon mask  =  19307  =  19305
+Third-age druidic staff  =  19310  =  19308
+Third-age druidic cloak  =  19313  =  19311
+Third-age druidic wreath  =  19316  =  19314
+Third-age druidic robe top  =  19319  =  19317
+Third-age druidic robe  =  19322  =  19320
+Ancient platebody  =  19400  =  19398
+Ancient platelegs  =  19403  =  19401
+Ancient plateskirt  =  19406  =  19404
+Ancient full helm  =  19409  =  19407
+Ancient kiteshield  =  19412  =  19410
+Armadyl platebody  =  19415  =  19413
+Armadyl platelegs  =  19418  =  19416
+Armadyl plateskirt  =  19421  =  19419
+Armadyl full helm  =  19424  =  19422
+Armadyl kiteshield  =  19427  =  19425
+Bandos platebody  =  19430  =  19428
+Bandos platelegs  =  19433  =  19431
+Bandos plateskirt  =  19436  =  19434
+Bandos full helm  =  19439  =  19437
+Bandos kiteshield  =  19442  =  19440
+Brackish blade  =  20673  =  20671
+Steadfast boots  =  21789  =  21787
+Glaiven boots  =  21792  =  21790
+Ragefire boots  =  21795  =  21793

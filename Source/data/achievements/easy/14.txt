@@ -1,0 +1,6 @@
+[ACHIEVEMENT]
+Name = Pick 20 Flax
+Description = Go to a flax field and pick 20 flax. You can find the flax field south of Camelot, and west of Catherby.
+Requirement = 20
+Reward = 1
+[END]

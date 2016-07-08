@@ -1,0 +1,6 @@
+[ACHIEVEMENT]
+Name = Reach 50,000 Total Exp
+Description = To complete this achievement, train your skills. It doesn't matter which skills you train, once you gain 50,000 total experience, you will get this achievement.
+Requirement = 50000
+Reward = 1
+[END]

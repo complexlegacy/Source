@@ -1,0 +1,107 @@
+[2015/08/08, 18:57:06] [127.0.0.1] [Keith] typed in ::npc 1
+[2015/08/08, 18:58:02] [127.0.0.1] [Keith] typed in ::item 4151 1
+[2015/08/08, 18:58:09] [127.0.0.1] [Keith] typed in ::npc 1
+[2015/08/08, 19:02:04] [127.0.0.1] [Keith] typed in ::tele 222 222
+[2015/08/08, 19:02:17] [127.0.0.1] [Keith] typed in ::tele 222 2222
+[2015/08/08, 19:02:22] [127.0.0.1] [Keith] typed in ::tele 222 222
+[2015/08/08, 19:02:39] [127.0.0.1] [Keith] typed in :::tele 222 222
+[2015/08/08, 19:06:08] [127.0.0.1] [Keith] typed in ::tele 222 222
+[2015/08/08, 20:26:31] [127.0.0.1] [Keith] typed in ::npc 1
+[2015/08/08, 20:48:25] [127.0.0.1] [Keithl] typed in ::interface 45000
+[2015/08/08, 20:48:30] [127.0.0.1] [Keithl] typed in ::interface 45000
+[2015/08/08, 20:48:52] [127.0.0.1] [Keithl] typed in ::interface 25000
+[2015/08/08, 23:49:11] [127.0.0.1] [Keith] typed in ::interface 22923
+[2015/08/09, 10:39:32] [127.0.0.1] [Keith] typed in ::npc 1
+[2015/08/09, 10:57:56] [127.0.0.1] [Keith] typed in ::npc 1
+[2015/08/09, 11:14:16] [127.0.0.1] [Keith] typed in ::interface 19345
+[2015/08/09, 11:14:34] [127.0.0.1] [Keith] typed in ::interface 19500
+[2015/08/09, 11:37:59] [127.0.0.1] [Keith] typed in ::char
+[2015/08/09, 12:43:56] [127.0.0.1] [Keith] typed in ::interface 37000
+[2015/08/09, 12:44:02] [127.0.0.1] [Keith] typed in ::interface 42000
+[2015/08/09, 12:44:34] [127.0.0.1] [Keith] typed in ::interface 25000
+[2015/08/09, 14:03:58] [127.0.0.1] [Keith] typed in ::interface 28000
+[2015/08/09, 14:05:42] [127.0.0.1] [Keith] typed in ::interface 28000
+[2015/08/09, 14:07:39] [127.0.0.1] [Keith] typed in ::interface 28000
+[2015/08/09, 14:09:52] [127.0.0.1] [Keith] typed in ::interface 45000
+[2015/08/09, 14:09:57] [127.0.0.1] [Keith] typed in ::interface 28000
+[2015/08/09, 14:11:09] [127.0.0.1] [Keith] typed in ::interface 28000
+[2015/08/09, 14:20:57] [127.0.0.1] [Keith] typed in ::interface 28000
+[2015/08/09, 14:22:59] [127.0.0.1] [Keith] typed in ::interface 28000
+[2015/08/09, 14:23:26] [127.0.0.1] [Keith] typed in ::interface 24000
+[2015/08/09, 14:23:32] [127.0.0.1] [Keith] typed in ::interface 25000
+[2015/08/09, 14:23:39] [127.0.0.1] [Keith] typed in ::interface 28000
+[2015/08/09, 14:28:24] [127.0.0.1] [Keith] typed in ::interface 28000
+[2015/08/09, 14:32:05] [127.0.0.1] [Keith] typed in ::interface 28000
+[2015/08/09, 14:35:07] [127.0.0.1] [Keith] typed in ::interface 28000
+[2015/08/09, 14:40:00] [127.0.0.1] [Keith] typed in ::interface 28000
+[2015/08/09, 15:51:40] [127.0.0.1] [Keith] typed in ::interface 28020
+[2015/08/09, 15:58:21] [127.0.0.1] [Keith] typed in ::interface 28000
+[2015/08/09, 16:00:31] [127.0.0.1] [Keith] typed in ::interface 28000
+[2015/08/09, 16:00:48] [127.0.0.1] [Keith] typed in ::interface 28020
+[2015/08/09, 16:06:19] [127.0.0.1] [Keith] typed in ::interface 28020
+[2015/08/09, 16:09:06] [127.0.0.1] [Keith] typed in ::interface 28020
+[2015/08/09, 16:15:21] [127.0.0.1] [Keith] typed in ::interface 28020
+[2015/08/09, 16:17:09] [127.0.0.1] [Keith] typed in ::item 14011 1
+[2015/08/09, 16:19:28] [127.0.0.1] [Keith] typed in ::interface 20748 1
+[2015/08/09, 16:19:40] [127.0.0.1] [Keith] typed in ::item 20748 1
+[2015/08/09, 16:31:31] [127.0.0.1] [Keith] typed in ::item 14011
+[2015/08/09, 16:31:36] [127.0.0.1] [Keith] typed in ::item 14011 1
+[2015/08/09, 17:15:13] [127.0.0.1] [Keith] typed in ::interface 28050
+[2015/08/09, 17:27:03] [127.0.0.1] [Keith] typed in ::interface 28000
+[2015/08/09, 17:33:07] [127.0.0.1] [Keith] typed in ::interface 28000
+[2015/08/09, 17:33:35] [127.0.0.1] [Keith] typed in ::interface 28020
+[2015/08/09, 17:34:13] [127.0.0.1] [Keith] typed in ::interface 28050
+[2015/08/09, 17:36:44] [127.0.0.1] [Keith] typed in ::interface 28050
+[2015/08/09, 17:39:10] [127.0.0.1] [Keith] typed in ::interface 28050
+[2015/08/09, 17:42:37] [127.0.0.1] [Keith] typed in ::interface 28050
+[2015/08/09, 17:45:23] [127.0.0.1] [Keith] typed in ::interface 28050
+[2015/08/09, 18:31:57] [127.0.0.1] [Keith] typed in ::npc 1
+[2015/08/09, 18:32:42] [127.0.0.1] [Keith] typed in ::npc 1
+[2015/08/09, 18:45:26] [127.0.0.1] [Keiths] typed in ::teleto keith
+[2015/08/09, 23:44:24] [127.0.0.1] [Keith] typed in ::empty
+[2015/08/09, 23:44:31] [127.0.0.1] [Keith] typed in ::empty
+[2015/08/09, 23:45:00] [127.0.0.1] [Keith] typed in ::item 1042 1
+[2015/08/09, 23:45:17] [127.0.0.1] [Keith] typed in ::item 20135 1
+[2015/08/09, 23:45:19] [127.0.0.1] [Keith] typed in ::empty
+[2015/08/09, 23:45:46] [127.0.0.1] [Keith] typed in ::item 21371 1
+[2015/08/09, 23:45:54] [127.0.0.1] [Keith] typed in ::item 21372 1
+[2015/08/09, 23:47:38] [127.0.0.1] [Keith] typed in ::item 20748 1
+[2015/08/09, 23:47:45] [127.0.0.1] [Keith] typed in ::item 20749 1
+[2015/08/09, 23:47:53] [127.0.0.1] [Keith] typed in ::item 20752 1
+[2015/08/09, 23:48:01] [127.0.0.1] [Keith] typed in ::item 20769
+[2015/08/09, 23:48:06] [127.0.0.1] [Keith] typed in ::item 20769 1
+[2015/08/10, 00:28:15] [127.0.0.1] [Keith] typed in ::item 20771 1
+[2015/08/10, 00:32:25] [127.0.0.1] [Keith] typed in ::item 20769 1
+[2015/08/10, 00:32:34] [127.0.0.1] [Keith] typed in ::item 20769 1
+[2015/08/10, 00:32:43] [127.0.0.1] [Keith] typed in ::item 20769 1
+[2015/08/10, 00:32:57] [127.0.0.1] [Keith] typed in ::item 20749 1
+[2015/08/10, 00:33:28] [127.0.0.1] [Keith] typed in ::item 20769
+[2015/08/10, 00:33:35] [127.0.0.1] [Keith] typed in ::item 20769 1
+[2015/08/10, 00:34:37] [127.0.0.1] [Keith] typed in ::item 14001 1
+[2015/08/10, 00:34:43] [127.0.0.1] [Keith] typed in ::item 14002
+[2015/08/10, 00:34:50] [127.0.0.1] [Keith] typed in ::item 20768
+[2015/08/10, 00:34:57] [127.0.0.1] [Keith] typed in ::item 20768 1
+[2015/08/10, 00:35:06] [127.0.0.1] [Keith] typed in ::item 20767 1
+[2015/08/10, 00:40:52] [127.0.0.1] [Keith] typed in ::spellbook
+[2015/08/10, 00:41:05] [127.0.0.1] [Keith] typed in ::normal
+[2015/08/10, 00:41:07] [127.0.0.1] [Keith] typed in ::ancients
+[2015/08/10, 00:41:10] [127.0.0.1] [Keith] typed in ::lunar
+[2015/08/10, 00:55:57] [127.0.0.1] [Keith] typed in ::ancientss
+[2015/08/10, 00:56:03] [127.0.0.1] [Keith] typed in ::ancients
+[2015/08/10, 00:56:06] [127.0.0.1] [Keith] typed in ::ancient
+[2015/08/10, 00:56:10] [127.0.0.1] [Keith] typed in ::runes
+[2015/08/10, 00:56:15] [127.0.0.1] [Keith] typed in ::barrage
+[2015/08/10, 00:56:17] [127.0.0.1] [Keith] typed in ::barrage
+[2015/08/10, 00:56:21] [127.0.0.1] [Keith] typed in ::baragerunes
+[2015/08/10, 00:56:23] [127.0.0.1] [Keith] typed in ::barage
+[2015/08/10, 00:56:27] [127.0.0.1] [Keith] typed in ::barragerunes
+[2015/08/10, 00:56:30] [127.0.0.1] [Keith] typed in ::vengrunes
+[2015/08/10, 00:56:34] [127.0.0.1] [Keith] typed in ::veng
+[2015/08/10, 00:56:35] [127.0.0.1] [Keith] typed in ::barr
+[2015/08/10, 00:59:39] [127.0.0.1] [Keith] typed in ::interface 14000
+[2015/08/10, 01:09:02] [127.0.0.1] [Keith] typed in ::interface 28050
+[2015/08/10, 01:09:10] [127.0.0.1] [Keith] typed in ::interface 28020
+[2015/08/10, 01:11:25] [127.0.0.1] [Keith] typed in ::interface 28020
+[2015/08/10, 01:13:08] [127.0.0.1] [Keith] typed in ::interface 28020
+[2015/08/10, 01:15:00] [127.0.0.1] [Keith] typed in ::interface 28020
+[2015/08/10, 01:19:04] [127.0.0.1] [Keith] typed in ::item 20769 1

@@ -1,0 +1,7 @@
+[NPCDROP]
+[NPC-ID = 1474]
+//MISSING: spirit sapphire	1	RARE
+//MISSING: spirit emerald	1	RARE
+//MISSING: spirit ruby	1	RARE
+//MISSING: key token	1	RARE
+[LOAD]

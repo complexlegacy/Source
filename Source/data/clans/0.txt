@@ -1,0 +1,14 @@
+[CLAN]
+Clan Id = 0
+Clan Owner = Keith
+Clan Prefix = Keiths Klan
+Who Can Enter = 0
+Who Can Talk = 8
+Who Can Kick = 6
+
+
+[CLAN RANKS]
+
+
+
+[ENDOFCLAN]

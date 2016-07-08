@@ -1,0 +1,7 @@
+[NPCDROP]
+[NPC-ID = 1692]
+DROP = 526	1,1,false	ALWAYS
+//MISSING: raw undead chicken	1	ALWAYS
+DROP = 314	5,5,false	COMMON
+//MISSING: key token	1	RARE
+[LOAD]

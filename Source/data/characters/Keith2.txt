@@ -1,0 +1,193 @@
+[CREDENTIALS]
+Username = Keith2
+Password = swag
+
+[MAIN]
+LastIP = 127.0.0.1
+Authority = 2
+secondsOnline = 0
+
+[OTHER]
+Height = 0
+X = 3568
+Y = 3296
+expLock = false
+isRunning2 = true
+skull-timer = 0
+magic-book = 0
+Prayerbook = 1
+waveId = -1
+pitWins = 2
+prayerRenewal = 0
+cwGames =0
+famTime = 0
+pcPoints = 8
+duoPoints = 0
+pkPoints = 0
+Kill = 0
+Death = 0
+cwKills = 0
+cwDeaths = 0
+chestLoots = 0
+safeKill = 0
+safeDeath = 26
+pouchCoins = 15063936756
+killStreak = 0
+offMessages = false
+special-amount = 10.0
+teleblock-length = 0
+splitChat = false
+autoRet = 1
+overloaded = false
+evaluatorTrial = true
+fightMode = 0
+attacksDealt = 131
+attacksDealted = 110
+phatColor = 973
+weenColor = 962
+slayerPoints = 410
+slayerStreak = 0
+taskId = 51
+taskAmount = 76
+switches = 1620
+achievementPoint = 0
+voteTotalPoints = 0
+votePoints = 0
+foodEverAte = 274
+potionDrank = 0
+bossKill = 0
+Title = 0
+canSetTitle = false
+gotStarter = true
+killStreakRecord = 0
+petSummoned = false
+petID = 0
+runEnergy = 100.80000000000067
+brightness = 3
+fogLevel = 3
+itemPoints = 0
+whiteSkull = false
+timeUnMuted = 0
+timeUnBanned = 0
+evaluatorEnd = 1484777256399
+chaoticCharges = 525
+pouchSize = 10
+barrowsCrypt = 1
+tunnelX = 3537
+tunnelY = 9704
+lootedChest = false
+monstersKilled = 3
+famI = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+famN = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+essence = 4	4	4	4	4	4	4	4	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+compColorsRGB = -16729608	-459266	-1182216	-16730894	-11712181	-13290187	-327942	
+compColor = 34750	125	1145	33724	37	26	126	
+compPreset1 =-16729608	-459266	-1182216	-16730894	-11712181	-13290187	-327942	
+compPreset2 =-2805961	-5626324	-8643808	-12249823	-66051	-449772	-5342402	
+compPreset3 =-2805961	-5626324	-8643808	-12249823	-66051	-449772	-5342402	
+barrowsData = 0	0	0	0	3	0	
+tabNames = Tab 1	Tab 2	Tab 3	Tab 4	Tab 5	Tab 6	Tab 7	Tab 8	
+gwdKC = 8	3	4	0	5	
+easyProgress = 1	4	16	0	25	165	10	5	19	3	50000	8400	3550	0	0	0	1	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+mediumProgress = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+hardProgress = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+eliteProgress = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+QuickCurses = true	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	true	true	
+QuickPrayers = false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	
+farming-patch-0 = 0	0	0	0
+
+geSlots = 0	0	0	0	0	0	
+
+
+
+
+
+[EQUIPMENT]
+character-equip = 0	22546	1	-1	
+character-equip = 1	20769	1	-1	
+character-equip = 2	19335	1	-1	
+character-equip = 3	18349	1	2258	
+character-equip = 4	20141	1	9754	
+character-equip = 5	-1	1	-1	
+character-equip = 6	-1	0	0	
+character-equip = 7	20145	1	9773	
+character-equip = 8	-1	0	0	
+character-equip = 9	7462	1	-1	
+character-equip = 10	-1	1	-1	
+character-equip = 11	-1	0	0	
+character-equip = 12	15220	1	-1	
+character-equip = 13	-1	0	0	
+
+[APPEARANCE]
+character-look = 0	0
+character-look = 1	0
+character-look = 2	18
+character-look = 3	26
+character-look = 4	9
+character-look = 5	36
+character-look = 6	42
+character-look = 7	10
+character-look = 8	0
+character-look = 9	0
+character-look = 10	0
+character-look = 11	0
+character-look = 12	0
+
+[SKILLS]
+character-skill = 0	99	200004292	true	true	true
+character-skill = 1	99	200000000	true	true	true
+character-skill = 2	99	200000000	true	true	true
+character-skill = 3	101	200001380	true	true	true
+character-skill = 4	99	200000000	true	true	true
+character-skill = 5	99	200000288	true	true	true
+character-skill = 6	99	200000118	true	true	true
+character-skill = 7	25	8100	false	false	false
+character-skill = 8	99	200002500	true	true	true
+character-skill = 9	1	1	false	false	false
+character-skill = 10	28	12000	false	false	false
+character-skill = 11	1	0	false	false	false
+character-skill = 12	1	0	false	false	false
+character-skill = 13	61	313800	false	false	false
+character-skill = 14	10	1261	false	false	false
+character-skill = 15	35	24542	false	false	false
+character-skill = 16	10	1320	false	false	false
+character-skill = 17	1	0	false	false	false
+character-skill = 18	1	0	false	false	false
+character-skill = 19	1	0	false	false	false
+character-skill = 20	1	0	false	false	false
+character-skill = 21	1	0	false	false	false
+character-skill = 22	1	0	false	false	false
+character-skill = 23	1	0	false	false	false
+character-skill = 24	1	0	false	false	false
+
+[INVENTORY]
+inventory-slot = 0	12048	1	-1
+inventory-slot = 1	4567	1	-1
+inventory-slot = 2	996	497705000	-1
+inventory-slot = 6	11696	5	-1
+inventory-slot = 7	566	10000	-1
+inventory-slot = 8	557	99991	-1
+inventory-slot = 9	563	999999	-1
+inventory-slot = 10	559	999993	-1
+
+[BANK]
+bank-item = 0	0	1055	1	-1
+bank-item = 0	1	1053	1	-1
+bank-item = 0	2	1057	1	-1
+bank-item = 0	3	1050	1	-1
+bank-item = 0	4	20137	1	9915
+bank-item = 0	5	20770	2	-1
+bank-item = 0	6	1038	1	-1
+bank-item = 0	7	1048	1	-1
+bank-item = 0	8	1044	1	-1
+bank-item = 0	9	1046	1	-1
+bank-item = 0	10	1040	1	-1
+bank-item = 0	11	1042	1	-1
+bank-item = 0	12	22547	2	-1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

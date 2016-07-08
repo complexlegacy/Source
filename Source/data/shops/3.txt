@@ -1,0 +1,20 @@
+[SHOP]
+[NAME = Range Equipment]
+[CURRENCY = Coins]
+
+BUYS_BACK_SHOP_ITEMS = true
+BUYS_EVERYTHING = false
+
+Item = 0 839 100 -1
+Item = 1 841 100 -1
+Item = 2 843 100 -1
+Item = 3 845 100 -1
+Item = 4 847 100 -1
+Item = 5 849 100 -1
+Item = 6 1063 100 -1
+Item = 7 1095 100 -1
+Item = 8 1129 100 -1
+Item = 9 1167 100 -1
+Item = 10 882 2000 -1
+Item = 11 884 2000 -1
+[ENDOFSHOP]

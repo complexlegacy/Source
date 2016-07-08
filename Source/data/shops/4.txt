@@ -1,0 +1,19 @@
+[SHOP]
+[NAME = Slayer Points Store]
+[CURRENCY = Slayer Points]
+
+BUYS_BACK_SHOP_ITEMS = true
+BUYS_EVERYTHING = false
+
+Item = 0 4155 10 0
+Item = 1 4156 10 5
+Item = 2 4158 10 10
+Item = 3 4161 10 1
+Item = 4 4164 10 20
+Item = 5 4166 10 20
+Item = 6 4168 10 20
+Item = 7 4170 10 30
+Item = 8 8901 10 70
+Item = 9 4551 10 70
+
+[ENDOFSHOP]

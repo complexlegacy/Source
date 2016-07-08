@@ -1,0 +1,6 @@
+[ACHIEVEMENT]
+Name = Chop 20 normal logs
+Description = Find normal trees that give normal logs, such as normal trees, dead trees, and evergreens, and cut 20 logs from them.
+Requirement = 20
+Reward = 1
+[END]

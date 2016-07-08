@@ -1,0 +1,14 @@
+[NPCDROP]
+[NPC-ID = 2073]
+DROP = 526	1,1,false	ALWAYS
+DROP = 5016	1,1,false	UNCOMMON
+DROP = 5018	1,1,false	UNCOMMON
+DROP = 1153	1,1,false	COMMON
+DROP = 5013	1,1,false	RARE
+DROP = 1101	1,1,false	RARE
+DROP = 995	12,12,false	COMMON
+//MISSING: oil lantern (empty)	1	RARE
+DROP = 7905	1,1,false	UNCOMMON
+DROP = 29	1,1,false	SUPER_RARE
+//MISSING: key token	1	RARE
+[LOAD]
