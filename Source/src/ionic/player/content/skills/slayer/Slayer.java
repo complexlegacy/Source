@@ -1,5 +1,6 @@
 package ionic.player.content.skills.slayer;
 
+import ionic.item.ItemAssistant;
 import ionic.npc.NPC;
 import ionic.npc.NPCData;
 import ionic.player.Player;
@@ -221,6 +222,7 @@ public class Slayer {
 						switch(option) {
 						case 1:
 							c.taskId = 0;
+							ItemAssistant.deleteItemForBank(c, 995, 1000000);
 							c.taskAmount = 0;
 							c.slayerStreak = 0;
 							c.getPA().closeAllWindows();
