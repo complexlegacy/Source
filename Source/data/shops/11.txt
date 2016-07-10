@@ -1,0 +1,19 @@
+[SHOP]
+[NAME = Consumables]
+[CURRENCY = Coins]
+BUYS_BACK_SHOP_ITEMS = false
+BUYS_EVERYTHING = false
+Item = 0 379 1000 400
+Item = 1 373 1000 700
+Item = 2 7946 1000 1200
+Item = 3 385 1000 -1
+Item = 4 2436 1000 0
+Item = 5 2440 1000 0
+Item = 6 2442 1000 0
+Item = 7 2444 1000 0
+Item = 8 3040 1000 0
+Item = 9 6685 1000 0
+Item = 10 2446 1000 0
+Item = 11 3024 1000 0
+Item = 12 2434 1000 0
+[ENDOFSHOP]
