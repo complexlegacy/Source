@@ -14,7 +14,7 @@ import utility.Misc;
 import core.Constants;
 
 public class Slayer {
-	
+	//test
 	public enum Difficulty {
 		EASY(3, 1, new int[] {1,2,3,4,5,6}),
 		MEDIUM(60, 1, new int[] {20,21,22,23,24,25,26,27,28,29,30,31}),
