@@ -125,77 +125,77 @@ public class Constants
         /**
          * Thieving experience multiplier.
          */
-        public static final int THIEVING_EXPERIENCE = 150;
+        public static final int THIEVING_EXPERIENCE = 100;
         
         /**
          * Slayer experience multiplier.
          */
-        public static final int SLAYER_EXPERIENCE = 10;
+        public static final int SLAYER_EXPERIENCE = 100;
         
         /**
          * Woodcutting experience multiplier.
          */
-        public static final int WOODCUTTING_EXPERIENCE = 10;
+        public static final int WOODCUTTING_EXPERIENCE = 100;
         
         /**
          * Mining experience multiplier.
          */
-        public static final int MINING_EXPERIENCE = 10;
+        public static final int MINING_EXPERIENCE = 100;
         
         /**
          * Mining experience multiplier.
          */
-        public static final int PRAYER_EXPERIENCE = 4;
+        public static final int PRAYER_EXPERIENCE = 100;
         
         /**
          * Mining experience multiplier.
          */
-        public static final int CRAFTING_EXPERIENCE = 7;
+        public static final int CRAFTING_EXPERIENCE = 100;
         
         /**
          * Smithing experience multiplier.
          */
-        public static final int SMITHING_EXPERIENCE = 150;
+        public static final int SMITHING_EXPERIENCE = 100;
         
         /**
          * Farming experience multiplier.
          */
-        public static final int FARMING_EXPERIENCE = 40;
+        public static final int FARMING_EXPERIENCE = 100;
         
         /**
          * Firemaking experience multiplier.
          */
-        public static final int FIREMAKING_EXPERIENCE = 12;
+        public static final int FIREMAKING_EXPERIENCE = 100;
         
         /**
          * Herblore experience multiplier.
          */
-        public static final int HERBLORE_EXPERIENCE = 70;
+        public static final int HERBLORE_EXPERIENCE = 100;
         
         /**
          * Fishing experience multiplier.
          */
-        public static final int FISHING_EXPERIENCE = 10;
+        public static final int FISHING_EXPERIENCE = 100;
         
         /**
          * Agility experience multiplier.
          */
-        public static final int AGILITY_EXPERIENCE = 20;
+        public static final int AGILITY_EXPERIENCE = 200;
         
         /**
          * Runecrafting experience multiplier.
          */
-        public static final int RUNECRAFTING_EXPERIENCE = 7;
+        public static final int RUNECRAFTING_EXPERIENCE = 100;
         
         /**
          * Cooking experience multiplier.
          */
-        public static final int COOKING_EXPERIENCE = 10;
+        public static final int COOKING_EXPERIENCE = 100;
         
         /**
          * Fletching experience multiplier.
          */
-        public static final int FLETCHING_EXPERIENCE = 10;
+        public static final int FLETCHING_EXPERIENCE = 100;
         
         /**
          * Maximum distance an NPC can roam from it's spawn location.
